@@ -1,0 +1,6 @@
+{
+    "homepage": "https://lpcva.org",
+    "scripts": {
+      "shorten": "netlify-shortener"
+    }
+  }
