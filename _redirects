@@ -1,6 +1,7 @@
 # short urls
 /getting-connected      https://lpcva.com/getting-connected
 /content.cfm?id=9023    https://lpcva.com/getting-connected
+/content.cfm            https://lpcva.com/getting-connected
 
 # fallback
 /*           https://lpcva.com/
