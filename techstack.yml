@@ -1,7 +1,8 @@
 repo_name: adamdjbrett/lpcva.org
 report_id: df705c2d5118f59a643be6a74a88ac7d
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-15T03:25:17+00:00'
+timestamp: '2024-01-05T08:43:10+00:00'
 requested_by: adamdjbrett
 provider: github
 branch: main
@@ -15,4 +16,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/adamdjbrett/lpcva.org
   detection_source: Repo Metadata
